@@ -1,0 +1,30 @@
+body {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+.photo {
+    width: 200px;
+    height: 200px;
+}
+.address {
+margin: 10px;
+display: inline-block;
+text-align: center;
+position: absolute;
+}
+h2 {
+  text-align: center;
+}
+.icons {
+  width: 40px;
+  height: 40px;
+}
+.soc_network li {
+list-style-type: none;
+display: inline;
+margin-right: 50px;
+}
+.mainIcons {
+  text-align: center;
+}
